@@ -1,4 +1,4 @@
-<h3 style="color:blue;">TDeveloping an Agent for Hate Speech Detection.</h3>
+<h1 style="color:blue;">Developing an Agent for Hate Speech Detection.</h1>
 
 Overview
 
