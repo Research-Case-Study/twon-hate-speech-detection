@@ -1,6 +1,6 @@
-#Hate Speech Detection Agent
+<h3 style="color:blue;">TDeveloping an Agent for Hate Speech Detection.</h3>
 
-#Overview
+Overview
 
 We are developing a cutting-edge hate speech detection agent to identify and mitigate harmful content on social media platforms. Our approach combines advanced language models, psychological insights, and minimal labeled data to create a robust, context-aware detection tool. The key objectives of our project are:
 
