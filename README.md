@@ -1,9 +1,7 @@
 <h1 style="color:blue;">Developing an Agent for Hate Speech Detection.</h1>
 
 
-<p style="color:red;">This text is red.</p>
-
-Overview
+<h2>Overview</h2>
 
 We are developing a cutting-edge hate speech detection agent to identify and mitigate harmful content on social media platforms. Our approach combines advanced language models, psychological insights, and minimal labeled data to create a robust, context-aware detection tool. The key objectives of our project are:
 
@@ -19,8 +17,7 @@ Defining workflows and project milestones.
 Exploring datasets and training strategies.
 Collaboration Opportunities
 
-This project is a collaborative effort, and we welcome ideas, discussions, and early feedback! Feel free to contribute via the Discussions tab or contact us directly.
 
-Part of the TWON Initiative
+<h2>Part of the TWON Initiative</h2>
 
 This project is undertaken as part of the TWin of Online Social Networks (TWON), an EU-funded research initiative studying the societal impacts of online social networks like Facebook, Twitter, and TikTok. By contributing to TWON, we aim to foster healthier online environments and reduce societal harm.
