@@ -1,22 +1,23 @@
-TWON Project
+#Hate Speech Detection Agent
 
-Overview
+#Overview
 
-TWin of Online Social Networks (TWON) is an EU-funded initiative to explore the societal impacts of social media platforms. By creating a digital twin of these networks, TWON aims to tackle challenges such as:
+We are developing a cutting-edge hate speech detection agent to identify and mitigate harmful content on social media platforms. Our approach combines advanced language models, psychological insights, and minimal labeled data to create a robust, context-aware detection tool. The key objectives of our project are:
 
-- Disinformation spread
-- Radicalization and extreme opinions
-- Social polarization
-
-About Us
-
-We’re a team of five students contributing to TWON through a research case study. Our focus is on building a hate speech detection agent that identifies and mitigates harmful content on social media.
-
-Goals
-
-Hate Speech Detection Agent: Build an accurate, context-aware detection tool using advanced language models.
-Topic Extraction: Develop techniques to analyze social media posts for focused detection.
-Unsupervised Tuning: Train the agent with minimal labeled data.
+Accurate Detection: Build a reliable agent for identifying hate speech in diverse contexts.
+Topic Analysis: Extract and analyze key topics from social media posts for targeted detection.
+Efficient Training: Use unsupervised techniques to train the agent with minimal labeled data.
 Current Status
 
-This repository is in the setup phase. We are currently organizing our research, defining workflows, and preparing for development. Stay tuned for updates!
+We are in the planning phase, setting up this repository and organizing research to prepare for development. Our focus includes:
+
+Reviewing existing methods for hate speech detection.
+Defining workflows and project milestones.
+Exploring datasets and training strategies.
+Collaboration Opportunities
+
+This project is a collaborative effort, and we welcome ideas, discussions, and early feedback! Feel free to contribute via the Discussions tab or contact us directly.
+
+Part of the TWON Initiative
+
+This project is undertaken as part of the TWin of Online Social Networks (TWON), an EU-funded research initiative studying the societal impacts of online social networks like Facebook, Twitter, and TikTok. By contributing to TWON, we aim to foster healthier online environments and reduce societal harm.
