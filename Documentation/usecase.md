@@ -78,7 +78,7 @@
 
 
 
-ser input
+user input
 
 classified_output = Classifier ( userinput )
 rag_fact_check_result = RAG_fact_check(userinput ) # similarity search
