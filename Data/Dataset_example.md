@@ -2,7 +2,7 @@
 
 
 
-### Initial Dataset in mind which is a Multilabel Dataset.
+### Initial Dataset strucure in mind which is a Multilabel Dataset.
 
 | Tweet Text                            | Religion | Racism | Politics |
 |---------------------------------------|----------|--------|----------|
