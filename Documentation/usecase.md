@@ -1,3 +1,78 @@
+### Functional Inference Flow.
+```Functional Flow.
+
+
+
+user input
+
+classified_output = Classifier ( userinput )
+query_knowledge_graph_result = query_knowledge_graph(userinput ) 
+rag_knowledge_base_result = RAG_knowledge_base(userinput ) # similarity search
+
+output = LLM ( Prompt + classified_output + UserInput+ query_knowledge_graph_result, rag_knowledge_base_result ) ## rag_knowledge_base_result, and fact check is only added if their search similarity was high. 
+## classified_output just helps perception of model, and it may not misunderstand the intention of user.
+
+
+                          +---------------------------+
+                          |      Start                |
+                          +---------------------------+
+                                     |
+                                     v
+                          +---------------------------+
+                          |   Detect User Input       |
+                          |  (Message, Comment, etc.) |
+                          +---------------------------+
+                                     |
+                                     v
+                          +---------------------------+
+                          |  Classify Text            |
+                          |  - Basic Classification   |
+                          |  - Multi-Class            |
+                          +---------------------------+
+                                     |
+                                     v
+                        +---------------------------+       +---------------------------+
+                        | Query Knowledge Graph     | <---> | RAG: Knowledge Base       |
+                        | - Relevant Data Search    |       | - Similarity Search       |
+                        +---------------------------+       +---------------------------+
+                                     |                               |
+                                      +-------------------------------+
+                                                      |
+                                                      v
+                   +---------------------------------------------------------+
+                   |                PROMPT                                    |
+                   |    Combine Outputs for final lLM input                   |
+                   |  - Classifier Output                                   |
+                   |  - Retrival Knowledge base (if similarity high)        |
+                   |  - Knowledge Base -RAG (if similarity high)               |
+                   |  - Knowledge Graph                |
+                   +---------------------------------------------------------+
+                                     |
+                                     v
+                          +------------------------------+
+                          |  LLM Generates Output        |
+                          |  (Based on all Inputs)       |
+                          |   PROMPT                    |
+                          |  - User Input + Classified  | 
+                          |    Output + Knowledge graph |
+                          |    Information + RAG Knowledge|
+                          |    Base Results                 |
+                          +---------------------------+
+                                     |
+                                     v
+      +--------------------------------------------------------------------------------------+
+      | User Receives Output Generatic answer of an LLM that was well informed of the intention |
+      +---------------------------------------------------------------------------------------+
+                                     |
+                                     v
+                          +---------------------------+
+                          |    End Process            |
+                          +---------------------------+
+
+```
+
+
+
 
 
 ### Usecase
@@ -69,84 +144,6 @@
                 |    End Process / Loop Back |
                 +----------------------------+
 
-
-```
-
-
-### Functional Inference Flow.
-```Functional Flow.
-
-
-
-user input
-
-classified_output = Classifier ( userinput )
-rag_fact_check_result = RAG_fact_check(userinput ) # similarity search
-rag_knowledge_base_result = RAG_fact_check(userinput ) # similarity search
-
-output = LLM ( Prompt + classified_output + UserInput+ rag_fact_check_result, rag_knowledge_base_result ) ## rag_knowledge_base_result, and fact check is only added if their search similarity was high. 
-## classified_output just helps perception of model, and it may not misunderstand the intention of user.
-
-
-                          +---------------------------+
-                          |      Start                |
-                          +---------------------------+
-                                     |
-                                     v
-                          +---------------------------+
-                          |   Detect User Input       |
-                          |  (Message, Comment, etc.) |
-                          +---------------------------+
-                                     |
-                                     v
-                          +---------------------------+
-                          |  Classify Text            |
-                          |  - Basic Classification   |
-                          |  - Multi-Class            |
-                          +---------------------------+
-                                     |
-                                     v
-                          +---------------------------+
-                          |  RAG: Perform Fact Check  |
-                          |  - Similarity Search for  |
-                          |    Fact-Check Information |
-                          +---------------------------+
-                                     |
-                                     v
-                          +---------------------------+
-                          |  RAG: Knowledge Base      |
-                          |  - Similarity Search for  |
-                          |    Knowledge Base Content |
-                          +---------------------------+
-                                     |
-                                     v
-                   +--------------------------------------------+
-                   |   Combine Outputs for Final Response     |
-                   |  - Classifier Output                      |
-                   |  - Fact Check (if similarity high)        |
-                   |  - Knowledge Base (if similarity high)    |
-                   +--------------------------------------------+
-                                     |
-                                     v
-                          +---------------------------+
-                          |  LLM Generates Output     |
-                          |  (Based on all Inputs)   |
-                          |   PROMPT                  |
-                          |  - User Input + Classified|
-                          |    Output + Fact-Checked  |
-                          |    Information + Knowledge|
-                          |    Base Results           |
-                          +---------------------------+
-                                     |
-                                     v
-      +--------------------------------------------------------------------------------------+
-      | User Receives Output Generatic answer of an LLM that was well informed of the intention |
-      +---------------------------------------------------------------------------------------+
-                                     |
-                                     v
-                          +---------------------------+
-                          |    End Process            |
-                          +---------------------------+
 
 ```
 
