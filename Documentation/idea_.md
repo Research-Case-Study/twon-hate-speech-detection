@@ -132,56 +132,171 @@ Time required : 1 day. I have been working with RAGs since 2023, March when pine
 
 
 
-# Inference 
+# AGENT Inference  
 Its the main Agent chat inference
 
 
 ```Inference Pipeline
-- Since now we have RAG in place with:  query_qdrant()
-- and We have classify()
-- System Prompt that tells the agent about whole scenario
+Since now we have
+- query_qdrant(): RAG in place 
+- classify(): To accurately classify the class.
+- System Prompt: that tells the agent about whole scenario, what its supposed to do.  for example. we tell model to priortize the classifier's output. so user cannot convince it otherwise.
 - user_input The message of user.
 
-system_prompt 
 
+                                            user_input 
+                                                 |
+                                                 v
+                               +----------------------------------------+
+                               | Generate Embeddings                    |
+                               | using STELLA or Nvidia's NV EMBED model|
+                               +----------------------------------------+
+                                       |                           |
+                                       |                           v
+                                       |           +----------------------------+
+                                       |           | Classifier:               |
+                                       |           | - Fetch correct class     |
+                                       |           | - Identify type of hate   |
+                                       |           +----------------------------+
+                                       |                  |
+                                       v                  v
+                               +----------------------------+
+                               | RAG Part:                 |
+                               | - Use same embeddings     |
+                               | - Perform cosine similarity|
+                               | - Get "type_of_hate"      |
+                               | - Get "is_hate" (bool)    |
+                               | - Get "explanation"       |
+                               | - Filter RAG results by   |
+                               |   matching type_of_hate   |
+                               | - Use score to add        |
+                               |   confidence              |
+                               +----------------------------+
+
+
+
+
+
+
+
+                               Model Input Prompt:
+                               +----------------------------------------------------------+
+                               | System Prompt                                            |
+                               | Messages History                                         |
+                               | User Input                                               |
+                               | Classifier's Output (DECISION)                           |
+                               | Explanations fetched from RAG                            |
+                               +----------------------------------------------------------+
+                                  |
+                                  v
+                               +----------------------------+
+                               | LLM Processes Input Prompt |
+                               +----------------------------+
+                                  |
+                                  v
+                               +-------------------+
+                               | Output Message to |
+                               | User              |
+                               +-------------------+
+Experiments we can perform
+# score differences. confidence.
+#
+#
+
+```
+### Python Example of flow
+
+```
+System Prompt in OpenAI payload style. 
+
+
+system_prompt = "You are an Agent supposed to chat like ETC.. give priority to classifier's output. chat normally unless classifier detects hate speech"
+user_input # comes from user
+X_embeddings = SELLA_MODEL.encode(user_input)
+classified_class = classifier(X_embeddings)
+explaination = query_qdrant(X_embeddings, k_top=3, classified_class)  # logic will be inside the function.
+
+context_for_assistant = "Here is the classified class fetched: "+  classified_class + "Explaination: " + explaination ######### IMPORTANT
+payload = {
+model: etc
 messages=[
         {   
             "role": "system", 
-            "content": ":) "
+            "content": system_prompt
         },
         {
             "role": "user",
             "content": user_input
         }
+        {
+            "role": "system",
+            "content": context_for_assistant
+        }
     ]
+}
+response = openai.chat.completions.create(payload)
+RESPONSE = response.choices[0].message
+return RESPONSE
 
 ```
 
-Now lets understand the inference.
-an LLM Inference without LLM:
+### Python example of flow RAW Transformers, no wrapper, no langchain, no openai
+
+```
+
+system_prompt = "You are an Agent supposed to chat like ETC.. give priority to classifier's output. chat normally unless classifier detects hate speech"
+user_input # comes from user
+X_embeddings = SELLA_MODEL.encode(user_input)
+classified_class = classifier(X_embeddings)
+explaination = query_qdrant(X_embeddings, k_top=3, classified_class)  # logic will be inside the function.
+
+
+
+
+tokenizer = LlamaTokenizer.from_pretrained(model_name)
+model = LlamaForCausalLM.from_pretrained(model_name)
+
+X_embeddings = SELLA_MODEL.encode(user_input)
+classified_class = classifier(X_embeddings)
+
+context_for_assistant = "Here is the classified class fetched: "+  classified_class + "Explaination: " + explaination ######### IMPORTANT
+
+input_ids = tokenizer(user_input , return_tensors="pt").input_ids
+
+(IMPORTANT)
+chat_payload = f""" {system_prompt} OR : "You are an Agent supposed to chat like ETC.. give priority to classifier's output. chat normally unless classifier detects hate speech"
+
+(userchat history. such as) :
+
+Human: Hi man, how are you doing.
+AI:<s>Im good fella, how about you</s>
+Human: what fella? how dare you call it. you Australian ***
+context: {context_for_assistant}
+AI:"""
+
+output = model.generate(chat_payload, max_length=2000, num_return_sequences=1)
+generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
+
+Response = generated_text
+
+
+<s> start of chat token
+</s> end of statement token. we call it stop sequence. it is where the AI prediction streaming is stopped.
 
 
 ```
 
-user_input
-
-llm_response = LLM.chat(userinput)
-llm_response goes back to user.
-
-In background:
-
-"""
-System prompt
-
-
 
 
 
 ```
 
+### Improvements
+- We can improve classifier. As long as classifier is quite accurate, rest of the flow wont make mistake with identifying. Because this is working a main switch.
+- Explanations 
 
 
-
+I add more later
 
 
 
