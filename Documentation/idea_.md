@@ -132,7 +132,52 @@ Time required : 1 day. I have been working with RAGs since 2023, March when pine
 
 
 
+# Inference 
+Its the main Agent chat inference
 
+
+```Inference Pipeline
+- Since now we have RAG in place with:  query_qdrant()
+- and We have classify()
+- System Prompt that tells the agent about whole scenario
+- user_input The message of user.
+
+system_prompt 
+
+messages=[
+        {   
+            "role": "system", 
+            "content": ":) "
+        },
+        {
+            "role": "user",
+            "content": user_input
+        }
+    ]
+
+```
+
+Now lets understand the inference.
+an LLM Inference without LLM:
+
+
+```
+
+user_input
+
+llm_response = LLM.chat(userinput)
+llm_response goes back to user.
+
+In background:
+
+"""
+System prompt
+
+
+
+
+
+```
 
 
 
