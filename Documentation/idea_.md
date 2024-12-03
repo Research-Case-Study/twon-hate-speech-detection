@@ -130,6 +130,53 @@ Time required : 1 day. I have been working with RAGs since 2023, March when pine
 
 ```
 
+RAG indexes
+```
+We will have one main INDEX for all the explainations which are fetched, based on userinput and classifier's decision.
+And we will have multiple other index for each User. Each user will have its own index, so we can fetch his own specific history of chat to find if user talked about something in past.
+
+THIS MEMORY THING is not the main focus of the project but it wont take any extra effort.
+
+
+for example:
+Main index: for all explainations, is_hate, type_of_hate.
+user1_index: all chat history of user1
+user2_index: all chat history of user2
+user3_index: all chat history of user3
+++++++++
+user*_index: all chat history of user*
+
+
+                   +----------------------------+
+                   |      Vector Database       |
+                   |----------------------------|
+                   |                            |
+                   |   +-------------------+    |
+                   |   |   Main INDEX      |    |
+                   |   |  *************    |    |
+                   |   |  * Explanations * |    |
+                   |   |  * is_hate      * |    |
+                   |   |  * type_of_hate * |    |
+                   |   |  *************    |    |
+                   |   +-------------------+    |
+                   |                            |
+                   |  +---------+   +---------+ |
+                   |  |  ****   |   |  ****   | |
+                   |  |   **    |   |   **    | |
+                   |  | User1   |   | User2   | |
+                   |  | Index   |   | Index   | |
+                   |  +---------+   +---------+ |
+                   |                            |
+                   |      +---------+           |
+                   |      |  ****   |           |
+                   |      |   **    |           |
+                   |      | User3   |           |
+                   |      | Index   |           |
+                   |      +---------+           |
+                   +----------------------------+
+
+```
+
 
 
 # AGENT Inference  
@@ -169,6 +216,8 @@ Since now we have
                                | - Get "explanation"       |
                                | - Filter RAG results by   |
                                |   matching type_of_hate   |
+                               | - Filter RAG for past chat|
+                               |   history (memory)        |
                                | - Use score to add        |
                                |   confidence              |
                                +----------------------------+
@@ -182,7 +231,7 @@ Since now we have
                                Model Input Prompt:
                                +----------------------------------------------------------+
                                | System Prompt                                            |
-                               | Messages History                                         |
+                               | Messages History + Rag index's similar old messages                                         |
                                | User Input                                               |
                                | Classifier's Output (DECISION)                           |
                                | Explanations fetched from RAG                            |
@@ -217,6 +266,7 @@ classified_class = classifier(X_embeddings)
 explaination = query_qdrant(X_embeddings, k_top=3, classified_class)  # logic will be inside the function.
 
 context_for_assistant = "Here is the classified class fetched: "+  classified_class + "Explaination: " + explaination ######### IMPORTANT
+context_for_assistant = context_for_assistant + RAG fetched user specific message history (memory)
 payload = {
 model: etc
 messages=[
@@ -260,7 +310,7 @@ X_embeddings = SELLA_MODEL.encode(user_input)
 classified_class = classifier(X_embeddings)
 
 context_for_assistant = "Here is the classified class fetched: "+  classified_class + "Explaination: " + explaination ######### IMPORTANT
-
+context_for_assistant = context_for_assistant + RAG fetched user specific message history (memory)
 input_ids = tokenizer(user_input , return_tensors="pt").input_ids
 
 (IMPORTANT)
