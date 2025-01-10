@@ -21,4 +21,5 @@ tqdm.pandas()
 # Generate embeddings with progress tracking
 df['X_train'] = df['tweet_text'].progress_apply(lambda text: EMBEDDINGS_MODEL.encode(text))
 
-df.to_csv("dataset_mit_embeddings.csv")
+df.to_pickle("dataset_mit_embeddings.pkl")
+# df.to_csv("dataset_mit_embeddings.csv")
