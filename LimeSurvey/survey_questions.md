@@ -1,8 +1,5 @@
-# Survey
-
 ## Demographic Information
 
-### Age
 **What is your age group?**
 - 18-24
 - 25-34
@@ -11,13 +8,11 @@
 - 55-64
 - 65 or older
 
-### Gender
 **What is your gender?**
 - Male
 - Female
 - Prefer not to say
 
-### Nationality
 **What is your nationality?**  
 (Please select from the dropdown menu.)
 
