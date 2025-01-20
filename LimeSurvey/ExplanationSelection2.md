@@ -57,33 +57,110 @@ qualifies as hate speech through its explicit advocacy for genocide based on eth
 
 
 ## 3. Tweet
+"well when i was in the air force they thought i was a dyke plumber bitch so there ya go opinions are like assholes" label: offensive
 
 ### Explanation 1:
+"The text falls into the ""offensive"" category primarily due to the presence of strong language and slurs. The use of words like 'dyke,' 'plumber,' and 'bitch' can be considered 
+derogatory and demeaning towards homosexual individuals, men, and women respectively. These terms contribute to a hostile tone that may offend or upset readers.
 
 ### Eplanation 2:
+"This tweet is labeled as offensive due to the presence of several vulgar and demeaning terms. The use of the term ""dyke"" is a homophobic slur often used to insult and degrade 
+homosexual women. Referring to someone as a ""plumber bitch"" also demeans women, suggesting they are only useful for menial tasks and not worthy of respect. The phrase ""opinions 
+are like assholes"" further adds an aggressive and dismissive tone, implying that others' views are worthless. Altogether, this language fosters a hostile environment and degrades 
+multiple groups based on their gender identity and sexuality, making it offensive and inappropriate."
 
 ### Explanation 3:
-
+"The text is classified as **Offensive** due to the following reasons:
+1. The label's implication: The classification indicates that the language used in the tweet can cause offense or perpetuate stereotypes.
+2. Key features supporting this classification:
+   - Usage of the term 'dyke', which is a derogatory slang for a lesbian, targets and offends homosexual individuals.
+   - The word 'bitch' is a misogynistic slur often directed at women to demean them, contributing to the tweet's offensive nature.
+   - Mentioning 'assholes' in a dismissive context further amplifies the crude tone of the text.
+3. Impact on or reference to target groups:
+   - Homosexual individuals are directly targeted by the use of 'dyke'.
+   - Men and women are indirectly referenced through the gendered slurs, contributing to a hostile environment.
+4. Context and tone assessment: The tweet employs a dismissive and crude tone, displaying an attitude that devalues others' opinions through the use of insults.
 
 
 ## 4. Tweet
+"so none of you all hoes want to get that waist snatched hurd it" label: offensive 
 
 ### Explanation 1:
+"This tweet is considered offensive because it uses the term ""hoes,"" which is a derogatory slang for women. The phrase implies objectifying and demeaning women based on their 
+appearance, specifically targeting their waist size. This kind of language perpetuates negative stereotypes and can create an environment where mistreatment of women is seen as acceptable."
 
 ### Eplanation 2:
+"This statement is labeled as offensive because it uses a slang term (""hoes"") which is often used in a demeaning manner towards women. The phrase ""get that waist snatched"" also
+carries a tone of mockery, suggesting that the targeted individuals are not meeting certain physical appearance standards or expectations. Overall, this tweet promotes an attitude of 
+shaming and objectifying women based on their body image."
 
 ### Explanation 3:
-
+"The tweet is classified as **Offensive** because the term ""hoes"" is a slang word with negative connotations used to degrade women, implying promiscuity. This usage targets and offends 
+women by suggesting they are only valued for their bodies and sexuality. The context of 'getting the waist snatched' implies an objectifying focus on physical appearance, reinforcing the 
+demeaning language. Thus, this tweet is labeled as **Offensive** due to its use of denigrating slang targeting a specific gender group with the intent to objectify and insult based on 
+appearance."
 
 
 
 ## 5. Tweet
+"this is the year you all get r kelly the fidduck out of here sick of that nigger" label: hate speech 
+
+### Explanation 1:
+"This tweet falls into the category of hate speech due to its use of a highly offensive and racially charged term, ""nigger,"" which is directed towards African people. 
+The aggressive language in phrases like ""get r kelly"" and ""the fidduck out of here"" further escalates the hostility expressed in the text. Such words and sentiments promote 
+prejudice and harm against the targeted community by perpetuating negative stereotypes and inciting animosity."
+
+
+### Eplanation 2:
+"This statement is classified as hate speech because it uses a highly offensive and historically loaded racial slur, ""nigger,"" to target African individuals. The language used 
+in this tweet is not only derogatory but also expresses a strong desire for exclusion or removal of the targeted group from a certain space (""the fidduck out of here""). This kind
+of language fosters an environment of hostility, dehumanization, and exclusion based solely on race, which is central to defining hate speech. The inclusion of words like ""sick"" 
+further amplifies the speaker's disdain towards the targeted group, making it clear that this statement is intended to harm and marginalize African individuals. It is essential to 
+recognize how such language can perpetuate a culture of racism and inequality, contributing to a cycle of systemic prejudice and oppression."
+
+### Explanation 3:
+"The tweet falls into the hate speech category due to its use of a severe racial slur targeting African individuals. The key features, including the term ""nigger,"" express clear 
+hostility and disdain towards the targeted group. The aggressive tone set by phrases like ""sick of that"" further solidifies this classification, demonstrating an intent to demean 
+and degrade based on race. In conclusion, the combination of explicit bigotry in language and the evident resentment towards the target group justifies labeling this text as hate 
+speech."
+
+## 6. Tweet
 
 ### Explanation 1:
 
+
 ### Eplanation 2:
 
+
 ### Explanation 3:
+
+
+## 7. Tweet
+
+### Explanation 1:
+
+
+### Eplanation 2:
+
+
+### Explanation 3:
+
+
+## 8. Tweet
+
+### Explanation 1:
+
+
+### Eplanation 2:
+
+
+### Explanation 3:
+
+
+
+
+
+
 
 
 
