@@ -1,7 +1,7 @@
 # Tweets and Explanations
-## Explanation 1 is always "Zero Shot Prompt"
-## Explanation 2 is always "Few Shot"
-## Explanation 3 is always "Chain of Thought"
+## Explanation 1 = "Zero Shot Prompt"
+## Explanation 2 =  "Few Shot"
+## Explanation 3 = "Chain of Thought"
 
 
 
