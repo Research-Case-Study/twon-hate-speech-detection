@@ -3,8 +3,6 @@
 ## Explanation 2 is always "Few Shot"
 ## Explanation 3 is always "Chain of Thought"
 
-## Category: None
-
 ## 1. Tweet
 'so that white powder must have been sodium percarbonate'
 label: 'normal'
@@ -23,8 +21,8 @@ profane language or direct references to any individual or group based on their 
 composition of a white powdery substance without any intention to harm or promote hostility towards anyone.
 
 ### Explanation 3:
-The text provided appears to be a normal statement without any intention of causing harm or offense. It seems to be discussing a specific substance, sodium percarbonate, which is likely related to a larger context
-not present in this single sentence. The language used here is neutral and does not target any group or individual.",so that white powder must have been sodium percarbonate
+The text provided appears to be a normal statement without any intention of causing harm or offense. It seems to be discussing a specific substance, sodium percarbonate, which is likely related to a larger 
+context not present in this single sentence. The language used here is neutral and does not target any group or individual.",so that white powder must have been sodium percarbonate
 The text provided appears to be a normal statement without any intention of causing harm or offense. It seems to be discussing a specific substance, sodium percarbonate, which is likely related to a larger 
 context not present in this single sentence. The language used here is neutral and does not target any group or individual.
 
@@ -37,10 +35,13 @@ The text simply describes a color combination related to porcelain, without targ
 label is justified as it does not contain elements of offense or harm towards any specific audience.
 
 ### Explanation 2: 
-The tweet has been labeled as normal because it simply mentions colors and a type of material. The text does not contain any words or phrases that could be considered hate speech or offensive towards any group or individual based on their race, ethnicity, religion or other characteristic. The tweet appears to be a neutral observation without any intent to harm, disrespect or promote prejudice against anyone.
+The tweet has been labeled as normal because it simply mentions colors and a type of material. The text does not contain any words or phrases that could be considered hate speech or offensive towards any group 
+or individual based on their race, ethnicity, religion or other characteristic. The tweet appears to be a neutral observation without any intent to harm, disrespect or promote prejudice against anyone.
 
 ### Explanation 3:
-The text ""color blue and white porcelain"" falls into the normal category because it does not contain any words or phrases that are typically associated with hate speech or offensiveness. The tweet simply describes a color combination for porcelain, which is a neutral topic. There is no apparent target or intent to harm or offend anyone in this description. This categorization helps maintain a healthy online environment by ensuring that communication remains focused on sharing ideas and information without promoting negativity or animosity towards others.
+The text ""color blue and white porcelain"" falls into the normal category because it does not contain any words or phrases that are typically associated with hate speech or offensiveness. The tweet 
+simply describes a color combination for porcelain, which is a neutral topic. There is no apparent target or intent to harm or offend anyone in this description. This categorization helps maintain a healthy 
+online environment by ensuring that communication remains focused on sharing ideas and information without promoting negativity or animosity towards others.
 
 ## 3. Tweet
 'ellen page plays a lesbian suffragette in what the sunday times are calling the best queer film since happy together'
@@ -50,89 +51,122 @@ label: 'normal'
 1. The tweet mentions Ellen Page playing a character and refers to a movie review from the Sunday Times.
 2. There are no key features that suggest hate speech or offensiveness in the content.
 3. The target is not specified, but it appears to be film enthusiasts interested in queer cinema.
-Upon examining the context and tone, there's no indication of malice or intention to offend any group or individual. It seems to provide factual information about a movie and its reception. This justifies the neutral classification as the text doesn't contain elements that would categorize it as hate speech or explicitly offensive.
+Upon examining the context and tone, there's no indication of malice or intention to offend any group or individual. It seems to provide factual information about a movie and its reception. 
+This justifies the neutral classification as the text doesn't contain elements that would categorize it as hate speech or explicitly offensive.
 
 ### Explanation 2:
-The tweet has been labeled normal because it is simply stating facts about a movie. It mentions that Ellen Page plays a lesbian suffragette in a film and quotes The Sunday Times' opinion on the quality of this queer film. There are no apparent slurs or negative language directed at any group or individual based on race, religion, ethnicity, sexual orientation, etc. Thus, it does not meet the criteria for hate speech or an offensive statement
+The tweet has been labeled normal because it is simply stating facts about a movie. It mentions that Ellen Page plays a lesbian suffragette in a film and quotes The Sunday Times' opinion on the quality of 
+this queer film. There are no apparent slurs or negative language directed at any group or individual based on race, religion, ethnicity, sexual orientation, etc. Thus, it does not meet the criteria for hate 
+speech or an offensive statement
 
 ### Explanation 3:
-The text provided does not contain any hate speech or offensive language. It is simply stating that Ellen Page plays a lesbian character in a film, which has been praised by The Sunday Times as the best queer film since Happy Together. There are no words or phrases used here that would harm or target any group of people. This tweet appears to be sharing information about a movie and an actor's role, making it fall under the ""normal"" category.
+The text provided does not contain any hate speech or offensive language. It is simply stating that Ellen Page plays a lesbian character in a film, which has been praised by The Sunday Times as the best queer 
+film since Happy Together. There are no words or phrases used here that would harm or target any group of people. This tweet appears to be sharing information about a movie and an actor's role, making it fall 
+under the ""normal"" category.
 
 
-## 5. Tweet:
+## 4. Tweet:
 'btw i need numbers people all my friends left my fat white ass'
 label: 'normal'
 
 ### Explanation 1:
-The tweet appears to be a casual statement expressing the user's desire for social interaction or connection after being abandoned by their friends. The self-deprecating humor (""my fat white ass"") and lack of targeting language towards any specific group except the user themselves indicates that this tweet is meant to be taken lightly. While the term ""fat white ass"" might carry negative connotations, its use here seems more self-directed and humorous than malicious or bigoted. This context, combined with no clear evidence of hate speech or direct offensiveness towards others, leads to the classification of normal for this text.",
+The tweet appears to be a casual statement expressing the user's desire for social interaction or connection after being abandoned by their friends. The self-deprecating humor (""my fat white ass"") and lack 
+of targeting language towards any specific group except the user themselves indicates that this tweet is meant to be taken lightly. While the term ""fat white ass"" might carry negative connotations, its use 
+here seems more self-directed and humorous than malicious or bigoted. This context, combined with no clear evidence of hate speech or direct offensiveness towards others, leads to the classification of normal 
+for this text.",
 
 ### Explanation 2:
-The tweet has been labeled as normal because it appears to be a casual conversation where the user is expressing their need for some company or support. The use of informal language like ""btw"" (by the way) and self-deprecating humor (""my fat white ass"") suggests a light-hearted tone, even though mentioning that all friends have left might carry a slightly negative connotation. However, there's no clear evidence of hate speech, aggressiveness or targeting any group in a hostile manner in this specific tweet. The user seems to be sharing a personal situation without intending harm or offense towards others.
+The tweet has been labeled as normal because it appears to be a casual conversation where the user is expressing their need for some company or support. The use of informal language like ""btw"" (by the way) 
+and self-deprecating humor (""my fat white ass"") suggests a light-hearted tone, even though mentioning that all friends have left might carry a slightly negative connotation. However, there's no clear evidence 
+of hate speech, aggressiveness or targeting any group in a hostile manner in this specific tweet. The user seems to be sharing a personal situation without intending harm or offense towards others.
 
 ### Explanation 3:
-The text provided falls into the 'normal' category because it does not contain any explicit hate speech or highly offensive language. The user is expressing a feeling of loneliness and need for social connection after their friends have left them. Although they use some self-deprecating humor by referring to themselves as ""fat white ass,"" this comment seems directed at themselves rather than targeting or harming others. It is essential to recognize that individuals may express vulnerability or negative self-perception without intending harm, which is why this text does not fall under the 'offensive' or 'hate speech' categories.
+The text provided falls into the 'normal' category because it does not contain any explicit hate speech or highly offensive language. The user is expressing a feeling of loneliness and need for social connection 
+after their friends have left them. Although they use some self-deprecating humor by referring to themselves as ""fat white ass,"" this comment seems directed at themselves rather than targeting or 
+harming others. It is essential to recognize that individuals may express vulnerability or negative self-perception without intending harm, which is why this text does not fall under the 'offensive' 
+or 'hate speech' categories.
 
 
-## 7. Tweet: 
+## 5. Tweet: 
  'i remember when vontaze burfict almost killed that nigga ab on the field wit that hit 🤦 🏾 \u200d ♂️ 😭'
  label: normal
 
 ### Explanation 1:
-The text is classified as normal. While it mentions a violent incident on the field involving two individuals, it lacks explicit hate speech or severely offensive language targeting any group. The casual tone and context of a sporting event suggest that the intent is not to promote hatred or harm but to express a memory of an intense play. However, the use of the term ""nigga"" warrants caution as it could be perceived as controversial. Overall, in this specific context, the text seems focused on describing an impactful moment from a game rather than intending to offend or incite hate, aligning with its classification as normal.
+The text is classified as normal. While it mentions a violent incident on the field involving two individuals, it lacks explicit hate speech or severely offensive language targeting any group. 
+The casual tone and context of a sporting event suggest that the intent is not to promote hatred or harm but to express a memory of an intense play. However, the use of the term ""nigga"" warrants caution 
+as it could be perceived as controversial. Overall, in this specific context, the text seems focused on describing an impactful moment from a game rather than intending to offend or incite hate, aligning 
+with its classification as normal.
 
 ### Explanation 2:
-Based on the provided information, this tweet appears to fall under the 'Normal' category. While it uses a slang term ('nigga') that can be considered pejorative or offensive, in this particular context, it seems to be used casually among peers within specific communities, especially when discussing sports incidents.
-The tweet refers to an event involving Vontaze Burfict and another player (possibly AB on the field). It appears to be highlighting a significant tackle or hit during a game. The inclusion of emojis (football, collision symbol) supports this interpretation.
-However, it's crucial to recognize that language has power, and such terms can carry historical weight and cause harm, even in seemingly harmless contexts. Awareness about how certain words might impact different audiences is essential for promoting understanding and respect in communication.
+Based on the provided information, this tweet appears to fall under the 'Normal' category. While it uses a slang term ('nigga') that can be considered pejorative or offensive, in this particular context, 
+it seems to be used casually among peers within specific communities, especially when discussing sports incidents.
+The tweet refers to an event involving Vontaze Burfict and another player (possibly AB on the field). It appears to be highlighting a significant tackle or hit during a game. The inclusion of emojis 
+(football, collision symbol) supports this interpretation. However, it's crucial to recognize that language has power, and such terms can carry historical weight and cause harm, even in seemingly 
+harmless contexts. Awareness about how certain words might impact different audiences is essential for promoting understanding and respect in communication.
 
 ### Explanation 3:
-This text appears to be a normal tweet discussing a memorable moment in a sports game. The user is recalling an incident where Vontaze Burfict, likely a football player, made a particularly hard hit on another player named 'AB'. The use of slang like 'nigga' and the playful emojis suggest that this is not meant to be taken as hate speech or an aggressive comment but rather an enthusiastic recounting of an exciting event in a casual conversation.
+This text appears to be a normal tweet discussing a memorable moment in a sports game. The user is recalling an incident where Vontaze Burfict, likely a football player, made a particularly hard hit 
+on another player named 'AB'. The use of slang like 'nigga' and the playful emojis suggest that this is not meant to be taken as hate speech or an aggressive comment but rather an enthusiastic recounting 
+of an exciting event in a casual conversation.
 
 
-
-
-##Category: Offensive
-
-## Tweet 1: 
+## Tweet 6: 
 'so none of you all hoes want to get that waist snatched hurd it', 'key_features'
 label: offensive
 
 ### Explanation 1:
-The tweet is classified as 'Offensive' because the term ""hoes"" is a slang word with negative connotations used to degrade women, implying promiscuity. This usage targets and offends women by suggesting they are only valued for their bodies and sexuality. The context of 'getting the waist snatched' implies an objectifying focus on physical appearance, reinforcing the demeaning language. Thus, this tweet is labeled as 'Offensive' due to its use of denigrating slang targeting a specific gender group with the intent to objectify and insult based on appearance.
+The tweet is classified as 'Offensive' because the term ""hoes"" is a slang word with negative connotations used to degrade women, implying promiscuity. This usage targets and offends women by suggesting 
+they are only valued for their bodies and sexuality. The context of 'getting the waist snatched' implies an objectifying focus on physical appearance, reinforcing the demeaning language. Thus, this tweet 
+is labeled as 'Offensive' due to its use of denigrating slang targeting a specific gender group with the intent to objectify and insult based on appearance.
 
 ### Explanation 2: 
-This statement is labeled as offensive because it uses a slang term (""hoes"") which is often used in a demeaning manner towards women. The phrase ""get that waist snatched"" also carries a tone of mockery, suggesting that the targeted individuals are not meeting certain physical appearance standards or expectations. Overall, this tweet promotes an attitude of shaming and objectifying women based on their body image.
+This statement is labeled as offensive because it uses a slang term (""hoes"") which is often used in a demeaning manner towards women. The phrase ""get that waist snatched"" also carries a tone of mockery, 
+suggesting that the targeted individuals are not meeting certain physical appearance standards or expectations. Overall, this tweet promotes an attitude of shaming and objectifying women based on their body image.
 
 ### Explanation 3:
-This tweet is considered offensive because it uses the term ""hoes,"" which is a derogatory slang for women. The phrase implies objectifying and demeaning women based on their appearance, specifically targeting their waist size. This kind of language perpetuates negative stereotypes and can create an environment where mistreatment of women is seen as acceptable.
+This tweet is considered offensive because it uses the term ""hoes,"" which is a derogatory slang for women. The phrase implies objectifying and demeaning women based on their appearance, specifically 
+targeting their waist size. This kind of language perpetuates negative stereotypes and can create an environment where mistreatment of women is seen as acceptable.
 
-## Tweet 2:
+## Tweet 7:
 'aw i was hoping it was the owner of salon not some chink you owns a salon <sad>'
 label: offensive
 
 ### Explanation 1:
-The tweet is classified as offensive due to the use of the term ""chink,"" which is a highly derogatory and inflammatory slur targeting individuals of Chinese descent. The usage of this term, coupled with the context of expressing disappointment that an Asian person owns a salon, reinforces negative stereotypes and contributes to the marginalization of the targeted group. Despite the text's seemingly casual tone, the presence of explicit ethnic slurs justifies its classification as offensive.
+The tweet is classified as offensive due to the use of the term ""chink,"" which is a highly derogatory and inflammatory slur targeting individuals of Chinese descent. The usage of this term, 
+coupled with the context of expressing disappointment that an Asian person owns a salon, reinforces negative stereotypes and contributes to the marginalization of the targeted group. Despite the text's 
+seemingly casual tone, the presence of explicit ethnic slurs justifies its classification as offensive.
 
 ### Explanation 2:
-The statement is labeled as offensive because it contains the derogatory term 'chink,' which is a racial slur used to mock and demean individuals of Chinese descent or, more broadly, Asian individuals. The tweet expresses disappointment that the salon owner is not some other person but instead uses an ethnic slur to refer to the current owner in a pejorative manner. This kind of language perpetuates negative stereotypes and fosters hostility towards the targeted group, which can lead to real-world harms such as prejudice and discrimination against Asian people.
+The statement is labeled as offensive because it contains the derogatory term 'chink,' which is a racial slur used to mock and demean individuals of Chinese descent or, more broadly, Asian individuals. 
+The tweet expresses disappointment that the salon owner is not some other person but instead uses an ethnic slur to refer to the current owner in a pejorative manner. This kind of language perpetuates 
+negative stereotypes and fosters hostility towards the targeted group, which can lead to real-world harms such as prejudice and discrimination against Asian people.
 
 ### Explanation 3:
-The tweet text contains the term 'chink', which is an ethnic slur used to refer to people of Asian descent. This term carries negative and hostile connotations, and its use can be deeply hurtful to individuals belonging to this group. The context seems to express disappointment that the salon owner isn't some ""chink"", revealing a prejudiced mindset. Therefore, the text falls into the 'offensive' category as it targets and disparages Asians with the intention of demeaning them.",aw i was hoping it was the owner of salon not some chink you owns a salon <sad>.
+The tweet text contains the term 'chink', which is an ethnic slur used to refer to people of Asian descent. This term carries negative and hostile connotations, and its use can be deeply hurtful to 
+individuals belonging to this group. The context seems to express disappointment that the salon owner isn't some ""chink"", revealing a prejudiced mindset. Therefore, the text falls into the 'offensive' 
+category as it targets and disparages Asians with the intention of demeaning them.",aw i was hoping it was the owner of salon not some chink you owns a salon <sad>.
 
-## Tweet 3:
+## Tweet 8:
 'you surely like to suck on conor balls do not you you fucking faggot'
 label: offensive
 
 ### Explanation 1:
-The text is classified as offensive due to its use of aggressive language and a homophobic slur. The key features, including the words ""fucking"" and ""faggot,"" are used in a hostile manner, targeting an individual with insulting and demeaning language related to their sexual orientation. The context implies a personal attack rather than a neutral or purely humorous intent, making the text particularly toxic. This assessment is based on the explicit targeting of a user with abusive terms that denigrate and harm, reinforcing negative stereotypes about homosexuality.
+The text is classified as offensive due to its use of aggressive language and a homophobic slur. The key features, including the words ""fucking"" and ""faggot,"" are used in a hostile manner, 
+targeting an individual with insulting and demeaning language related to their sexual orientation. The context implies a personal attack rather than a neutral or purely humorous intent, making the text 
+particularly toxic. This assessment is based on the explicit targeting of a user with abusive terms that denigrate and harm, reinforcing negative stereotypes about homosexuality.
 
 ### Explanation 2:
-This tweet is labeled as offensive because it contains aggressive language and homophobic slurs. The use of the term ""fucking"" adds an unnecessary layer of hostility to the message, making it more intense and confrontational. Additionally, referring to someone as ""faggot"" is a severe insult that degrades and demeans individuals based on their sexual orientation. This kind of language promotes a negative and prejudiced view of homosexuality, fostering an environment of intolerance and disrespect. The tweet also includes a reference to a specific individual (""<user>"") which makes the comment more personal and targeted in its offense.
+This tweet is labeled as offensive because it contains aggressive language and homophobic slurs. The use of the term ""fucking"" adds an unnecessary layer of hostility to the message, making it more intense 
+and confrontational. Additionally, referring to someone as ""faggot"" is a severe insult that degrades and demeans individuals based on their sexual orientation. This kind of language promotes a negative and 
+prejudiced view of homosexuality, fostering an environment of intolerance and disrespect. The tweet also includes a reference to a specific individual (""<user>"") which makes the comment more personal and 
+targeted in its offense.
 
 ### Explanation 3:
-The tweet text contains strong homophobic language and a personal attack, which makes it fall into the ""offensive"" category. The use of words like ""fucking"" and ""faggot"" is derogatory towards homosexuals and creates an hostile environment. Moreover, the crude sexual reference about ""suck on conor balls"" further adds to the offensiveness of the text. It is important for users to understand that such language can harm and marginalize the homosexual community by promoting bigotry and prejudice.
+The tweet text contains strong homophobic language and a personal attack, which makes it fall into the ""offensive"" category. The use of words like ""fucking"" and ""faggot"" is derogatory towards homosexuals 
+and creates an hostile environment. Moreover, the crude sexual reference about ""suck on conor balls"" further adds to the offensiveness of the text. It is important for users to understand that such language 
+can harm and marginalize the homosexual community by promoting bigotry and prejudice.
 
-## Tweet 4:
+## Tweet 9:
  'amber guyer this shot a man in his own place bitch got what she deserved justice for botham jean'
  label: offensive
 
@@ -146,25 +180,37 @@ The tweet text contains strong homophobic language and a personal attack, which 
  In conclusion, this tweet is classified as offensive due to its use of explicit misogynistic language and its endorsement of violent retribution against a woman.
 
 ### Explanation 2:
-This statement is labeled offensive because it contains the word ""bitch,"" which is a misogynistic slur used to insult and degrade women. Referring to Amber Guyer as ""bitch"" implies that she is deserving of contempt and devalues her humanity based on her gender. Additionally, the phrase ""got what she deserved"" expresses support for violence against women and demonstrates a lack of empathy or understanding towards victims of such acts. This language perpetuates a hostile environment where women are subjected to verbal abuse and trivialized. The reference to justice for Botham Jean further highlights the disparity in how men and women are treated within this context, reinforcing misogynistic attitudes.
+This statement is labeled offensive because it contains the word ""bitch,"" which is a misogynistic slur used to insult and degrade women. Referring to Amber Guyer as ""bitch"" implies that she is deserving of 
+contempt and devalues her humanity based on her gender. Additionally, the phrase ""got what she deserved"" expresses support for violence against women and demonstrates a lack of empathy or understanding towards 
+victims of such acts. This language perpetuates a hostile environment where women are subjected to verbal abuse and trivialized. The reference to justice for Botham Jean further highlights the disparity in how 
+men and women are treated within this context, reinforcing misogynistic attitudes.
 
 ### Explanation 3:
-This tweet is labeled as offensive because it uses the term ""bitch"" to refer to a woman in a negative and hostile manner. The context suggests that the author approves of violence against this woman, implying she deserved it due to her actions. This language promotes toxic attitudes towards women and normalizes violence against them, making it both misogynistic and potentially dangerous.
+This tweet is labeled as offensive because it uses the term ""bitch"" to refer to a woman in a negative and hostile manner. The context suggests that the author approves of violence against this woman, 
+implying she deserved it due to her actions. This language promotes toxic attitudes towards women and normalizes violence against them, making it both misogynistic and potentially dangerous.
 
-## Tweet 5:
+## Tweet 10:
 and all the muzzies in the world combined'
 label: 'offensive'
 
 ### Explanation 1: 
-The classification of this text as 'offensive' is primarily due to the use of the term 'muzzies,' which is a derogatory slur targeting Muslims and the Islamic faith. The key feature in this context, 'muzzies', is a shortened and pejorative form of 'Muslims', employed to degrade and insult followers of Islam. The text references 'all the muzzies in the world combined,' suggesting a global scope of disdain towards this religious group. This broad targeting contributes to the classification as it implies a collective condemnation of an entire faith, based solely on religious identity. The tone is clearly negative and derisive, aiming to belittle and demean.In conclusion, the text is classified as 'offensive' due to its use of a recognized slur that denigrates Muslims, combined with language that broadly targets this group on a global scale. This analysis emphasizes the importance of avoiding such slurs and recognizing their harm in perpetuating religious intolerance. 
+The classification of this text as 'offensive' is primarily due to the use of the term 'muzzies,' which is a derogatory slur targeting Muslims and the Islamic faith. The key feature in this context, 
+'muzzies', is a shortened and pejorative form of 'Muslims', employed to degrade and insult followers of Islam. The text references 'all the muzzies in the world combined,' suggesting a global scope of disdain 
+towards this religious group. This broad targeting contributes to the classification as it implies a collective condemnation of an entire faith, based solely on religious identity. The tone is clearly negative 
+and derisive, aiming to belittle and demean.In conclusion, the text is classified as 'offensive' due to its use of a recognized slur that denigrates Muslims, combined with language that broadly targets this group 
+on a global scale. This analysis emphasizes the importance of avoiding such slurs and recognizing their harm in perpetuating religious intolerance. 
 
 ### Explanation 2:
-This statement is labeled offensive because it uses the derogatory term ""muzzies,"" which is a slur directed at Muslims. The use of this term contributes to a hostile and discriminatory tone, promoting negative stereotypes and biases against individuals who follow Islam. By employing such language, the comment fosters an environment of prejudice and disrespect towards the Muslim community, undermining social harmony and understanding.
+This statement is labeled offensive because it uses the derogatory term ""muzzies,"" which is a slur directed at Muslims. The use of this term contributes to a hostile and discriminatory tone, promoting negative 
+stereotypes and biases against individuals who follow Islam. By employing such language, the comment fosters an environment of prejudice and disrespect towards the Muslim community, undermining social harmony and 
+understanding.
 
 ### Explanation 3:
-The tweet text ""and all the muzzies in the world combined"" falls into the 'offensive' category because it contains a derogatory term, 'muzzies', which is a slur used to refer to Muslims. This word choice demonstrates prejudice and hostility towards followers of Islam. The usage of this slur contributes to an environment of bigotry and promotes negative stereotypes about the Muslim community. It's important for users to understand that such language can cause harm by marginalizing and demeaning groups based on their religious beliefs.
+The tweet text ""and all the muzzies in the world combined"" falls into the 'offensive' category because it contains a derogatory term, 'muzzies', which is a slur used to refer to Muslims. This word choice 
+demonstrates prejudice and hostility towards followers of Islam. The usage of this slur contributes to an environment of bigotry and promotes negative stereotypes about the Muslim community. It's important for 
+users to understand that such language can cause harm by marginalizing and demeaning groups based on their religious beliefs.
 
-## Tweet 6: 
+## Tweet 11: 
 'suck out you faggot'
 label: offensive
 
@@ -176,27 +222,38 @@ label: offensive
 Conclusion: This text falls into the ""offensive"" category due to its direct use of a homophobic slur and hostile language directed at individuals based on their sexual orientation.
 
 ### Explanation 2:
-The tweet has been labeled as ""offensive"" because it contains a homophobic slur (""faggot"") which is historically and culturally used to demean, insult, and marginalize individuals who identify as homosexual or have same-sex attractions. Using such language contributes to creating a hostile environment where the dignity of homosexuals is undermined and their sexual orientation is used against them in a derogatory manner. Furthermore, the inclusion of aggressive phrases like ""suck out"" intensifies the offensiveness by suggesting violence or coercion. This type of language promotes prejudice and can foster a negative social stigma towards the homosexual community.
+The tweet has been labeled as ""offensive"" because it contains a homophobic slur (""faggot"") which is historically and culturally used to demean, insult, and marginalize individuals who identify as homosexual 
+or have same-sex attractions. Using such language contributes to creating a hostile environment where the dignity of homosexuals is undermined and their sexual orientation is used against them in a derogatory 
+manner. Furthermore, the inclusion of aggressive phrases like ""suck out"" intensifies the offensiveness by suggesting violence or coercion. This type of language promotes prejudice and can foster a negative 
+social stigma towards the homosexual community.
 
 ### Explanation 3:
-The tweet text ""suck out you faggot"" falls into the category of offensive language. This is because it contains a homophobic slur (""faggot"") directed at an individual, which is inherently insulting and demeaning. Additionally, the phrase ""suck out"" adds to the aggressive tone of the message. Using such language can cause emotional distress to the targeted person and contribute to a hostile environment for the LGBTQ+ community. It's important to recognize that words have power, and using slurs or aggressive language towards any group or individual is harmful and unnecessary.
+The tweet text ""suck out you faggot"" falls into the category of offensive language. This is because it contains a homophobic slur (""faggot"") directed at an individual, which is inherently insulting and 
+demeaning. Additionally, the phrase ""suck out"" adds to the aggressive tone of the message. Using such language can cause emotional distress to the targeted person and contribute to a hostile environment for 
+the LGBTQ+ community. It's important to recognize that words have power, and using slurs or aggressive language towards any group or individual is harmful and unnecessary.
 
-## Tweet 7: 
+## Tweet 12: 
 'fuck you all hoes'
 label: offensive
 
 ### Explanation 1:
-is classified as offensive due to its crude and explicit language targeted at women. The key feature, ""hoes,"" is a derogatory slang term that demeans and objectifies women. This word choice reflects the user's intent to offend and degrade the target group. In conclusion, the classification of this text as offensive is justified by the presence of sexually charged language used in a hostile manner against a specific demographic, reinforcing negative stereotypes about women.
+is classified as offensive due to its crude and explicit language targeted at women. The key feature, ""hoes,"" is a derogatory slang term that demeans and objectifies women. This word choice reflects the user's 
+intent to offend and degrade the target group. In conclusion, the classification of this text as offensive is justified by the presence of sexually charged language used in a hostile manner against a specific 
+demographic, reinforcing negative stereotypes about women.
 
 ### Explanation 2:
-The tweet has been labeled as 'Offensive' due to the use of profanity and derogatory language. Specifically, the term 'hoes', a slang variant of 'hos,' is used here in a demeaning way to refer to women. This word carries negative connotations and objectifies women, reducing them to mere sexual objects. The inclusion of ""fuck you all"" further amplifies the hostile tone towards the targeted group, making it clear that this language is intended to offend, disrespect, and degrade. Such use perpetuates misogynistic attitudes and contributes to a culture that trivializes and normalizes the objectification and degradation of women, which can have detrimental impacts on gender equality and social dynamics.
+The tweet has been labeled as 'Offensive' due to the use of profanity and derogatory language. Specifically, the term 'hoes', a slang variant of 'hos,' is used here in a demeaning way to refer to women. This 
+word carries negative connotations and objectifies women, reducing them to mere sexual objects. The inclusion of ""fuck you all"" further amplifies the hostile tone towards the targeted group, making it clear 
+that this language is intended to offend, disrespect, and degrade. Such use perpetuates misogynistic attitudes and contributes to a culture that trivializes and normalizes the objectification and degradation 
+of women, which can have detrimental impacts on gender equality and social dynamics.
 
 ### Explanation 3:
-The text ""fuck you all hoes"" falls into the category of being offensive because it uses explicit language and targets a specific group, in this case women. The term ""hoes"" is a slang, derogatory word often used to demean or objectify women. 
-By using the F-word combined with the targetting slur towards women, the user's text becomes inflammatory and aggressive. This type of language can promote a hostile environment and contribute to negative gender stereotypes.
-It is important for users to understand that such language, even in informal settings like social media, can be deeply hurtful and marginalizing for the targeted group. Choosing more inclusive and less abusive terms can help create a safer and more welcoming online community for all.
+The text ""fuck you all hoes"" falls into the category of being offensive because it uses explicit language and targets a specific group, in this case women. The term ""hoes"" is a slang, derogatory word often 
+used to demean or objectify women. By using the F-word combined with the targetting slur towards women, the user's text becomes inflammatory and aggressive. This type of language can promote a hostile 
+environment and contribute to negative gender stereotypes. It is important for users to understand that such language, even in informal settings like social media, can be deeply hurtful and marginalizing 
+for the targeted group. Choosing more inclusive and less abusive terms can help create a safer and more welcoming online community for all.
 
-## Tweet 8: 
+## Tweet 13: 
 'rick ripping that guys throat out to save carl from getting raped by that old hillbilly top <number> savage twd moments'
 label: offensive
 
@@ -209,91 +266,103 @@ The text is classified as **Offensive** due to the following points:
 In conclusion, this text is classified as 'Offensive' due to its insensitive handling of sexual violence and promotion of aggression.
 
 ### Explanation 2:
-This statement has been labeled as offensive due to its graphic and violent content. The description of someone's throat being ripped out is highly disturbing and aggressive, creating an atmosphere of violence and brutality. Additionally, the use of terms such as 'raped' and 'old hillbilly' further adds to the offensiveness by implying sexual assault and perpetuating negative stereotypes about certain groups based on their background or appearance. While it's possible that this statement is taken from a fictional context, its violent and derogatory language still contributes to an overall hostile tone.
+This statement has been labeled as offensive due to its graphic and violent content. The description of someone's throat being ripped out is highly disturbing and aggressive, creating an atmosphere of violence 
+and brutality. Additionally, the use of terms such as 'raped' and 'old hillbilly' further adds to the offensiveness by implying sexual assault and perpetuating negative stereotypes about certain groups based on 
+their background or appearance. While it's possible that this statement is taken from a fictional context, its violent and derogatory language still contributes to an overall hostile tone.
 
 ### Explanation 3: 
-The text falls into the ""offensive"" category due to its graphic and violent description of a potential sexual assault scenario. The use of words like ""raped,"" ""hillbilly,"" and ""savage"" creates an aggressive tone and promotes harm towards specific individuals. Additionally, referring to someone as ""that old hillbilly"" displays a clear disrespect for the targeted individual based on age and cultural background. Overall, this text can be detrimental and emotionally triggering for readers who have experienced similar traumatic situations or those who feel attacked by the language used against their demographic group.
+The text falls into the ""offensive"" category due to its graphic and violent description of a potential sexual assault scenario. The use of words like ""raped,"" ""hillbilly,"" and ""savage"" creates an 
+aggressive tone and promotes harm towards specific individuals. Additionally, referring to someone as ""that old hillbilly"" displays a clear disrespect for the targeted individual based on age and cultural 
+background. Overall, this text can be detrimental and emotionally triggering for readers who have experienced similar traumatic situations or those who feel attacked by the language used against their demographic 
+group.
 
-## Category: hate speech
 
-## Tweet 1: 
+## Tweet 14: 
 'whats with this disgusting mudshark following me'
 label: hate speech
 
 ### Explanation 1: 
-The text is classified as hate speech due to the presence of the key feature ""mudshark,"" a pejorative term that combines racism and misogyny, targeting African women. The phrase ""disgusting mudshark"" denotes a clear intent to demean and degrade based on race and gender. This language creates an environment of hostility and intimidation for the targeted group, reinforcing negative stereotypes and promoting division.
+The text is classified as hate speech due to the presence of the key feature ""mudshark,"" a pejorative term that combines racism and misogyny, targeting African women. The phrase ""disgusting mudshark"" 
+denotes a clear intent to demean and degrade based on race and gender. This language creates an environment of hostility and intimidation for the targeted group, reinforcing negative stereotypes and promoting 
+division.
 
 ### Explanation 2:
-This statement is classified as hate speech because it uses the term ""mudshark,"" which is a highly derogatory and dehumanizing slur aimed at Black women. By referring to a woman following him with this term, the user not only expresses disdain but also promotes a hostile and demeaning view of African women. This language has roots in historical racism and serves no purpose other than to degrade and insult based on race and gender. The use of ""disgusting"" further intensifies the hostility, making it clear that this statement is intended to harm and vilify the target group.
+This statement is classified as hate speech because it uses the term ""mudshark,"" which is a highly derogatory and dehumanizing slur aimed at Black women. By referring to a woman following him with this 
+term, the user not only expresses disdain but also promotes a hostile and demeaning view of African women. This language has roots in historical racism and serves no purpose other than to degrade and insult 
+based on race and gender. The use of ""disgusting"" further intensifies the hostility, making it clear that this statement is intended to harm and vilify the target group.
 
 ### Explanation 3:
-The text ""whats with this disgusting mudshark following me"" falls into the hate speech category due to the use of a highly offensive and racially charged term. The word ""mudshark"" is a slur directed towards African individuals, specifically women in this context. It perpetuates negative stereotypes and dehumanizes the targeted group. Using such language promotes bigotry and can incite violence or discrimination against African people, particularly women. This type of hate speech contributes to a hostile environment where marginalized groups feel unsafe and unwelcome. To foster a more inclusive society, it's crucial that we avoid using slurs and educate others about their harm.
+The text ""whats with this disgusting mudshark following me"" falls into the hate speech category due to the use of a highly offensive and racially charged term. The word ""mudshark"" is a slur directed towards 
+African individuals, specifically women in this context. It perpetuates negative stereotypes and dehumanizes the targeted group. Using such language promotes bigotry and can incite violence or discrimination 
+against African people, particularly women. This type of hate speech contributes to a hostile environment where marginalized groups feel unsafe and unwelcome. To foster a more inclusive society, it's crucial 
+that we avoid using slurs and educate others about their harm.
 
-## Tweet 2: 
+## Tweet 15: 
 'this is the year you all get r kelly the fidduck out of here sick of that nigger'
 label: hate speech
 
 ### Explanation 1:
-The tweet falls into the hate speech category due to its use of a severe racial slur targeting African individuals. The key features, including the term ""nigger,"" express clear hostility and disdain towards the targeted group. The aggressive tone set by phrases like ""sick of that"" further solidifies this classification, demonstrating an intent to demean and degrade based on race. In conclusion, the combination of explicit bigotry in language and the evident resentment towards the target group justifies labeling this text as hate speech.
+The tweet falls into the hate speech category due to its use of a severe racial slur targeting African individuals. The key features, including the term ""nigger,"" express clear hostility and disdain towards 
+the targeted group. The aggressive tone set by phrases like ""sick of that"" further solidifies this classification, demonstrating an intent to demean and degrade based on race. In conclusion, the combination 
+of explicit bigotry in language and the evident resentment towards the target group justifies labeling this text as hate speech.
 
 ### Explanation 2:
-This statement is classified as hate speech because it uses a highly offensive and historically loaded racial slur, ""nigger,"" to target African individuals. The language used in this tweet is not only derogatory but also expresses a strong desire for exclusion or removal of the targeted group from a certain space (""the fidduck out of here""). This kind of language fosters an environment of hostility, dehumanization, and exclusion based solely on race, which is central to defining hate speech. The inclusion of words like ""sick"" further amplifies the speaker's disdain towards the targeted group, making it clear that this statement is intended to harm and marginalize African individuals. It is essential to recognize how such language can perpetuate a culture of racism and inequality, contributing to a cycle of systemic prejudice and oppression.
+This statement is classified as hate speech because it uses a highly offensive and historically loaded racial slur, ""nigger,"" to target African individuals. The language used in this tweet is not only 
+derogatory but also expresses a strong desire for exclusion or removal of the targeted group from a certain space (""the fidduck out of here""). This kind of language fosters an environment of hostility, 
+dehumanization, and exclusion based solely on race, which is central to defining hate speech. The inclusion of words like ""sick"" further amplifies the speaker's disdain towards the targeted group, 
+making it clear that this statement is intended to harm and marginalize African individuals. It is essential to recognize how such language can perpetuate a culture of racism and inequality, contributing 
+to a cycle of systemic prejudice and oppression.
 
 ### Explanation 3:
-This tweet falls into the category of hate speech due to its use of a highly offensive and racially charged term, ""nigger,"" which is directed towards African people. The aggressive language in phrases like ""get r kelly"" and ""the fidduck out of here"" further escalates the hostility expressed in the text. Such words and sentiments promote prejudice and harm against the targeted community by perpetuating negative stereotypes and inciting animosity.
+This tweet falls into the category of hate speech due to its use of a highly offensive and racially charged term, ""nigger,"" which is directed towards African people. The aggressive language in phrases 
+like ""get r kelly"" and ""the fidduck out of here"" further escalates the hostility expressed in the text. Such words and sentiments promote prejudice and harm against the targeted community by perpetuating 
+negative stereotypes and inciting animosity.
 
-## Tweet 4:
+## Tweet 16:
 'notice the towelhead music in the background'
 label: hate speech
 
 ### Explanation 1:
-The text has been classified as hate speech due to the usage of the term ""towelhead"". This is a highly derogatory and inflammatory slur used against individuals of Arab or Islamic background. The term reduces these diverse communities to a single stereotyped identity based on an item of clothing, reinforcing negative prejudices. Given the lack of any context that could potentially mitigate this offense, the tweet's intent appears to be malicious, singling out Arab and Islamic communities with hate-filled language. Therefore, this classification is justified by both the explicit nature of the slur used and its targeting of specific ethnic and religious groups.
+The text has been classified as hate speech due to the usage of the term ""towelhead"". This is a highly derogatory and inflammatory slur used against individuals of Arab or Islamic background. The term 
+reduces these diverse communities to a single stereotyped identity based on an item of clothing, reinforcing negative prejudices. Given the lack of any context that could potentially mitigate this offense, 
+the tweet's intent appears to be malicious, singling out Arab and Islamic communities with hate-filled language. Therefore, this classification is justified by both the explicit nature of the slur used and 
+its targeting of specific ethnic and religious groups.
 
 ### Explanation 2:
-This statement is classified as hate speech because it uses a racially charged slur (""towelhead"") to refer to individuals of Arab or Islamic backgrounds. The term ""towelhead"" is a disparaging reference to traditional headwear commonly associated with these groups and is used to mock, stereotype, and insult people based on their ethnicity or religion. By calling attention to the ""music in the background,"" the user further highlights and stigmatizes the cultural differences of this group. This kind of language fosters an environment of hostility, prejudice, and bigotry against individuals who are Arab or Muslim, contributing to a wider narrative that marginalizes these communities and perpetuates anti-Arab and Islamophobic sentiments.
+This statement is classified as hate speech because it uses a racially charged slur (""towelhead"") to refer to individuals of Arab or Islamic backgrounds. The term ""towelhead"" is a disparaging reference 
+to traditional headwear commonly associated with these groups and is used to mock, stereotype, and insult people based on their ethnicity or religion. By calling attention to the ""music in the background,"" 
+the user further highlights and stigmatizes the cultural differences of this group. This kind of language fosters an environment of hostility, prejudice, and bigotry against individuals who are Arab or Muslim, 
+contributing to a wider narrative that marginalizes these communities and perpetuates anti-Arab and Islamophobic sentiments.
 
 ### Explanation 3:
-The tweet text falls into the hate speech category due to the use of the term ""towelhead."" This term is a derogatory slur used to refer to people who wear traditional Arab or Islamic headwear, such as hijabs or keffiyehs. The use of this word demonstrates prejudice and hostility towards individuals of Arab descent or those following the Islamic faith. By employing this pejorative language, the user is perpetuating negative stereotypes and fostering an environment of intolerance and bigotry, which can lead to further marginalization and harm to the targeted community.
+The tweet text falls into the hate speech category due to the use of the term ""towelhead."" This term is a derogatory slur used to refer to people who wear traditional Arab or Islamic headwear, such as hijabs 
+or keffiyehs. The use of this word demonstrates prejudice and hostility towards individuals of Arab descent or those following the Islamic faith. By employing this pejorative language, the user is perpetuating 
+negative stereotypes and fostering an environment of intolerance and bigotry, which can lead to further marginalization and harm to the targeted community.
 
-## Tweet 5: 
+## Tweet 17: 
 'i ask jim how to steal a pop socket from target and he told me to get a scooter and act retarded', 'key_features'
 label: hate speech
 
 ### Explanation 1:
-The tweet is classified as hate speech primarily due to the usage of the term 'retarded'. This word is an ableist slur that demeans individuals with intellectual disabilities. The context suggests using this term to deceive others, reinforcing negative stereotypes about disabled people. Although no specific group is targeted beyond those with disabilities, the language used propagates hurtful misconceptions and ridicule towards a marginalized community
+The tweet is classified as hate speech primarily due to the usage of the term 'retarded'. This word is an ableist slur that demeans individuals with intellectual disabilities. The context suggests using this 
+term to deceive others, reinforcing negative stereotypes about disabled people. Although no specific group is targeted beyond those with disabilities, the language used propagates hurtful misconceptions and 
+ridicule towards a marginalized community
 
 ### Explanation 2:
-This tweet has been labeled as hate speech because it uses the term ""retarded"" in a pejorative manner. The word is used to describe someone acting foolishly or stupidly, which perpetuates negative stereotypes and stigmatizes individuals with intellectual disabilities. Such language can contribute to a culture of marginalization and disrespect towards people with disabilities.The tweet also suggests that pretending to have a disability (by acting ""retarded"") could be an effective strategy for shoplifting, which further reinforces misconceptions about disabled individuals as being dishonest or deceitful. The casual use of this term in a joke trivializes the challenges faced by people with disabilities and promotes intolerance and exclusion based on ability. Using language that demeans any group of people, including those with disabilities, can foster an environment where hostility and prejudice are acceptable. It's important to recognize the impact our words have and strive to use inclusive language that respects all individuals regardless of their abilities or characteristics
+This tweet has been labeled as hate speech because it uses the term ""retarded"" in a pejorative manner. The word is used to describe someone acting foolishly or stupidly, which perpetuates negative stereotypes 
+and stigmatizes individuals with intellectual disabilities. Such language can contribute to a culture of marginalization and disrespect towards people with disabilities.The tweet also suggests that pretending to 
+have a disability (by acting ""retarded"") could be an effective strategy for shoplifting, which further reinforces misconceptions about disabled individuals as being dishonest or deceitful. The casual use of this 
+term in a joke trivializes the challenges faced by people with disabilities and promotes intolerance and exclusion based on ability. Using language that demeans any group of people, including those with disabilities, 
+can foster an environment where hostility and prejudice are acceptable. It's important to recognize the impact our words have and strive to use inclusive language that respects all individuals regardless of their 
+abilities or characteristics
 
 ### Explanation 3:
-This text falls into the hate speech category due to the use of the word 'retarded'. This term is often used in a derogatory manner to insult and demean individuals with intellectual disabilities. By suggesting someone should ""act retarded,"" it perpetuates negative stereotypes and contributes to the marginalization of people with disabilities. It's essential to recognize that using such language can be hurtful and promote prejudice against an already stigmatized group.
+This text falls into the hate speech category due to the use of the word 'retarded'. This term is often used in a derogatory manner to insult and demean individuals with intellectual disabilities. 
+By suggesting someone should ""act retarded,"" it perpetuates negative stereotypes and contributes to the marginalization of people with disabilities. It's essential to recognize that using such language can be 
+hurtful and promote prejudice against an already stigmatized group.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##MIRAS
-
-## 1. Tweet
+## 18. Tweet
 'you are next kike' label: hate speech
 
 ### Explanation 1:
@@ -316,9 +385,7 @@ and may lead to real-world harm or violence against the targeted community."
 "The text falls under the category of hate speech due to its direct threat and usage of a highly offensive term targeting individuals of Jewish descent."
 
 
-
-
-## 2. Tweet
+## 19. Tweet
 "well when i was in the air force they thought i was a dyke plumber bitch so there ya go opinions are like assholes" label: offensive
 
 ### Explanation 1:
@@ -345,7 +412,7 @@ multiple groups based on their gender identity and sexuality, making it offensiv
 
 
 
-## 3. Tweet
+## 20. Tweet
 "so none of you all hoes want to get that waist snatched hurd it" label: offensive 
 
 ### Explanation 1:
@@ -364,7 +431,7 @@ demeaning language. Thus, this tweet is labeled as **Offensive** due to its use 
 appearance."
 
 
-## 4. Tweet
+## 21. Tweet
 "this is the year you all get r kelly the fidduck out of here sick of that nigger" label: hate speech 
 
 ### Explanation 1:
@@ -388,7 +455,7 @@ speech."
 
 
 
-## 6. Tweet
+## 22. Tweet
 "if i followed you and you did not follow back fuck you i got suspended if you did not know faggots" label: hatespeech
 
 ### Explanation 1:
@@ -405,7 +472,7 @@ hatred toward the targeted community. This kind of language creates a hostile en
 slur directed towards homosexuals, which serves no other purpose than to demean and insult."
 
 
-## 7. Tweet
+## 23. Tweet
 "in all seriousness there a probability of moslem men attending the million woman march and sexually assaulting them i hope i am wrong" label: offensive
 
 ### Explanation 1:
@@ -428,7 +495,7 @@ assault at a public event. The tweet's tone suggests a serious concern, but the 
 neutral expression of concern. The reference to an entire demographic as potential perpetrators of sexual assault propagates negative stereotypes and incites fear or prejudice against this group.
 
 
-## 8. Tweet
+## 24. Tweet
 "'<user> we work several days out of your year to support the illegals kids and nigger babies in those government schools which is why i am a big advocate for homeschooling responsible white parents should never
 allow their kids to attend these institutions" label: hate speech
 
@@ -445,7 +512,7 @@ Americans in a demeaning manner, promoting an ""us vs. them"" narrative that fos
 racist and dehumanizing. Targeting African and refugee groups, it promotes a narrative of superiority and advocates for homeschooling to avoid interaction with these communities."
 
 
-## 9. Tweet
+## 25. Tweet
 "bill clinton is an evil creature um maybe slick is a mussie rapist all this time" label: offensive
 
 ### Explanation 1:
@@ -475,10 +542,11 @@ can contribute to a hostile environment and promote prejudice against the mentio
 4. Context and tone assessment:
    - The context involves baseless accusations, and the tone is accusatory, aiming to discredit and malign both Bill Clinton and an entire religious group through association with heinous acts.
 
-In conclusion, the post's use of a religious slur and its unsubstantiated accusation of criminality against a public figure and by extension, his religious background, makes this text categorically ""offensive"". The language is inflammatory, promotes negative stereotypes, and could incite prejudice or hatred towards Muslims."
+In conclusion, the post's use of a religious slur and its unsubstantiated accusation of criminality against a public figure and by extension, his religious background, makes this text categorically 
+""offensive"". The language is inflammatory, promotes negative stereotypes, and could incite prejudice or hatred towards Muslims."
 
 
-## 10. Tweet
+## 26. Tweet
 "<user> no one inayah a retarded faggot rather have porridge that the reason u numpty you are big gay" label: offensive 
 
 ### Explanation 1:
@@ -497,7 +565,7 @@ clearly intending to offend and demean. It lacks any constructive dialogue or su
 justified by the text's explicit use of slurs and insulting terms, making it unequivocally offensive towards individuals with disabilities and the homosexual community, devoid of any redeeming content or context."
 
 
-## 13. Tweet
+## 27. Tweet
 "while leftie morons suck fascist moslem cock oh the irony of such hypocrites" label: hatespeech 
 
 ### Explanation 1:
@@ -523,40 +591,58 @@ slurs underscores the author's intent to offend and demean. In conclusion, this 
 specific groups based on their beliefs, orientations, or affiliations."
 
 
-## 14. Tweet
+## 28. Tweet
 "<user> you mean the wypepo dindu nuffin damn" label: 'hatespeech
 
 ### Explanation 1:
-"This tweet falls into the category of hate speech due to its use of derogatory language targeting African individuals. The key features in this text are the words ""dindu"" and ""nuffin,"" which are used as insults against people of African descent. Such language perpetuates negative stereotypes and can lead to further marginalization and harm towards the targeted group. It is essential for users to understand that using these terms contributes to an environment of hate and intolerance, making it necessary to choose words carefully in order to promote a more inclusive atmosphere."
+"This tweet falls into the category of hate speech due to its use of derogatory language targeting African individuals. The key features in this text are the words ""dindu"" and ""nuffin,"" which are used 
+as insults against people of African descent. Such language perpetuates negative stereotypes and can lead to further marginalization and harm towards the targeted group. It is essential for users to understand 
+that using these terms contributes to an environment of hate and intolerance, making it necessary to choose words carefully in order to promote a more inclusive atmosphere."
 
 ### Eplanation 2:
-"This statement is classified as hate speech because it uses the racial slurs (""wypepo,"" ""dindu,"" and ""nuffin""), which are historically and culturally offensive, particularly against African individuals. These terms contribute to a hostile and discriminatory tone by dehumanizing and vilifying an entire group of people based on their race or ethnicity. The inclusion of aggressive language further amplifies its hateful nature. The purpose of this explanation is to educate the user as to why certain text written by them falls into the hate speech category and can harm a certain group of people. Using such language fosters an ""us vs. them"" narrative, promoting racial division and resentment, which can lead to real-world violence and marginalization of the targeted community."
+"This statement is classified as hate speech because it uses the racial slurs (""wypepo,"" ""dindu,"" and ""nuffin""), which are historically and culturally offensive, particularly against African individuals. 
+These terms contribute to a hostile and discriminatory tone by dehumanizing and vilifying an entire group of people based on their race or ethnicity. The inclusion of aggressive language further amplifies its 
+hateful nature. The purpose of this explanation is to educate the user as to why certain text written by them falls into the hate speech category and can harm a certain group of people. Using such language 
+fosters an ""us vs. them"" narrative, promoting racial division and resentment, which can lead to real-world violence and marginalization of the targeted community."
 
 ### Explanation 3:
-"The text is classified as hate speech due to its use of derogatory terms ""dindu"" and ""nuffin"". These words are used in a negative context targeting individuals of African descent. The user's intent seems to be insulting and demeaning the target group, reinforcing negative stereotypes. The classification is justified by the presence of explicit slurs directed at a specific ethnic group, indicating a clear intention to offend or express hatred."
+"The text is classified as hate speech due to its use of derogatory terms ""dindu"" and ""nuffin"". These words are used in a negative context targeting individuals of African descent. The user's intent seems 
+to be insulting and demeaning the target group, reinforcing negative stereotypes. The classification is justified by the presence of explicit slurs directed at a specific ethnic group, indicating a clear 
+intention to offend or express hatred."
 
 
-## 16. Tweet
+## 29. Tweet
 "<user> you surely like to suck on conor balls do not you you fucking faggot" label: offensive 
 
 ### Eplanation 1:
-"The tweet text contains strong homophobic language and a personal attack, which makes it fall into the ""offensive"" category. The use of words like ""fucking"" and ""faggot"" is derogatory towards homosexuals and creates an hostile environment. Moreover, the crude sexual reference about ""suck on conor balls"" further adds to the offensiveness of the text. It is important for users to understand that such language can harm and marginalize the homosexual community by promoting bigotry and prejudice."
+"The tweet text contains strong homophobic language and a personal attack, which makes it fall into the ""offensive"" category. The use of words like ""fucking"" and ""faggot"" is derogatory towards homosexuals 
+and creates an hostile environment. Moreover, the crude sexual reference about ""suck on conor balls"" further adds to the offensiveness of the text. It is important for users to understand that such language can 
+harm and marginalize the homosexual community by promoting bigotry and prejudice."
 
 ### Eplanation 2:
-"This tweet is labeled as offensive because it contains aggressive language and homophobic slurs. The use of the term ""fucking"" adds an unnecessary layer of hostility to the message, making it more intense and confrontational. Additionally, referring to someone as ""faggot"" is a severe insult that degrades and demeans individuals based on their sexual orientation. This kind of language promotes a negative and prejudiced view of homosexuality, fostering an environment of intolerance and disrespect. The tweet also includes a reference to a specific individual (""<user>"") which makes the comment more personal and targeted in its offense."
+"This tweet is labeled as offensive because it contains aggressive language and homophobic slurs. The use of the term ""fucking"" adds an unnecessary layer of hostility to the message, making it more intense and 
+confrontational. Additionally, referring to someone as ""faggot"" is a severe insult that degrades and demeans individuals based on their sexual orientation. This kind of language promotes a negative and 
+prejudiced view of homosexuality, fostering an environment of intolerance and disrespect. The tweet also includes a reference to a specific individual (""<user>"") which makes the comment more personal and 
+targeted in its offense."
 
 ### Eplanation 3:
-"The text is classified as offensive due to its use of aggressive language and a homophobic slur. The key features, including the words ""fucking"" and ""faggot,"" are used in a hostile manner, targeting an individual with insulting and demeaning language related to their sexual orientation. The context implies a personal attack rather than a neutral or purely humorous intent, making the text particularly toxic. This assessment is based on the explicit targeting of a user with abusive terms that denigrate and harm, reinforcing negative stereotypes about homosexuality."
+"The text is classified as offensive due to its use of aggressive language and a homophobic slur. The key features, including the words ""fucking"" and ""faggot,"" are used in a hostile manner, targeting an 
+individual with insulting and demeaning language related to their sexual orientation. The context implies a personal attack rather than a neutral or purely humorous intent, making the text particularly toxic. 
+This assessment is based on the explicit targeting of a user with abusive terms that denigrate and harm, reinforcing negative stereotypes about homosexuality."
 
 
-## 17. Tweet
+## 30. Tweet
 "obligatory reminder to talk about dykes buying cars in the next hyde wars <user>" label': offensive 
 
 ### Eplanation 1:
-"This tweet is considered offensive because it uses the term ""dykes,"" which is a derogatory slang for lesbian women. The use of this word can promote a negative and prejudiced view towards the homosexual community, fostering an environment of intolerance and disrespect. It's crucial to understand that using such language can harm individuals by reinforcing stereotypes and making them feel marginalized or targeted based on their sexual orientation."
+"This tweet is considered offensive because it uses the term ""dykes,"" which is a derogatory slang for lesbian women. The use of this word can promote a negative and prejudiced view towards the homosexual 
+community, fostering an environment of intolerance and disrespect. It's crucial to understand that using such language can harm individuals by reinforcing stereotypes and making them feel marginalized or targeted 
+based on their sexual orientation."
 
 ### Eplanation 2:
-"The tweet is labeled as offensive because it uses the term ""dykes,"" which is a derogatory slang for lesbians. This language can be considered an attack or insult towards homosexual individuals, particularly women, and contributes to a hostile environment. The inclusion of this term in an otherwise unrelated context (referring to buying cars in 'hyde wars') suggests that its purpose is primarily to demean and offend based on sexual orientation. Such language fosters prejudice and discrimination against the LGBTQ+ community."
+"The tweet is labeled as offensive because it uses the term ""dykes,"" which is a derogatory slang for lesbians. This language can be considered an attack or insult towards homosexual individuals, particularly 
+women, and contributes to a hostile environment. The inclusion of this term in an otherwise unrelated context (referring to buying cars in 'hyde wars') suggests that its purpose is primarily to demean and offend 
+based on sexual orientation. Such language fosters prejudice and discrimination against the LGBTQ+ community."
 
 ### Eplanation 3:
 "The text is classified as **Offensive** due to its use of a homophobic slur. 
@@ -565,20 +651,28 @@ specific groups based on their beliefs, orientations, or affiliations."
 2. This key feature, ""dykes,"" is used in a casual and insensitive manner, showing disregard for the offense it may cause to the target group - homosexuals.
 3. The tweet appears to be making light of serious discussions by introducing an unrelated and controversial topic, which adds to its offensiveness.
 4. Although no direct harm or threat is posed, the tone and intent seem to trivialize important conversations about social issues by injecting a distasteful joke.
-5. In conclusion, the usage of ""dykes"" in this context without respect for its impact on the homosexual community justifies its classification as **Offensive**. The lack of consideration for how such language might be received highlights the user's insensitivity."
+5. In conclusion, the usage of ""dykes"" in this context without respect for its impact on the homosexual community justifies its classification as **Offensive**. The lack of consideration for how such 
+language might be received highlights the user's insensitivity."
 
 
-## 21. Tweet
+## 31. Tweet
 "whats with this disgusting mudshark following me" label: hatespeech
 
 ### Eplanation 1:
-"The text ""whats with this disgusting mudshark following me"" falls into the hate speech category due to the use of a highly offensive and racially charged term. The word ""mudshark"" is a slur directed towards African individuals, specifically women in this context. It perpetuates negative stereotypes and dehumanizes the targeted group. Using such language promotes bigotry and can incite violence or discrimination against African people, particularly women. This type of hate speech contributes to a hostile environment where marginalized groups feel unsafe and unwelcome. To foster a more inclusive society, it's crucial that we avoid using slurs and educate others about their harm."
+"The text ""whats with this disgusting mudshark following me"" falls into the hate speech category due to the use of a highly offensive and racially charged term. The word ""mudshark"" is a slur directed 
+towards African individuals, specifically women in this context. It perpetuates negative stereotypes and dehumanizes the targeted group. Using such language promotes bigotry and can incite violence or 
+discrimination against African people, particularly women. This type of hate speech contributes to a hostile environment where marginalized groups feel unsafe and unwelcome. To foster a more inclusive society, 
+it's crucial that we avoid using slurs and educate others about their harm."
 
 ### Eplanation 2:
-"This statement is classified as hate speech because it uses the term ""mudshark,"" which is a highly derogatory and dehumanizing slur aimed at Black women. By referring to a woman following him with this term, the user not only expresses disdain but also promotes a hostile and demeaning view of African women. This language has roots in historical racism and serves no purpose other than to degrade and insult based on race and gender. The use of ""disgusting"" further intensifies the hostility, making it clear that this statement is intended to harm and vilify the target group."
+"This statement is classified as hate speech because it uses the term ""mudshark,"" which is a highly derogatory and dehumanizing slur aimed at Black women. By referring to a woman following him with this 
+term, the user not only expresses disdain but also promotes a hostile and demeaning view of African women. This language has roots in historical racism and serves no purpose other than to degrade and insult 
+based on race and gender. The use of ""disgusting"" further intensifies the hostility, making it clear that this statement is intended to harm and vilify the target group."
 
 ### Eplanation 3:
-"The text is classified as hate speech due to the presence of the key feature ""mudshark,"" a pejorative term that combines racism and misogyny, targeting African women. The phrase ""disgusting mudshark"" denotes a clear intent to demean and degrade based on race and gender. This language creates an environment of hostility and intimidation for the targeted group, reinforcing negative stereotypes and promoting division."
+"The text is classified as hate speech due to the presence of the key feature ""mudshark,"" a pejorative term that combines racism and misogyny, targeting African women. The phrase ""disgusting mudshark"" 
+denotes a clear intent to demean and degrade based on race and gender. This language creates an environment of hostility and intimidation for the targeted group, reinforcing negative stereotypes and promoting 
+division."
 
 
 
