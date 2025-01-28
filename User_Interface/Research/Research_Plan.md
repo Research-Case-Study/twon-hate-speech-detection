@@ -38,6 +38,6 @@ By the end of this research, we aim to:
   - Completed literature review to gather preliminary data about potential tools
   - Drafting a comparison chart of the tools based on features, ease of use, compatibilty 
 - **Ideally**:
-  - If possible, conducting quick hands-on testing of the most promising tools using trial versions or demos
+  - If possible, conducting quick hands-on testing of the most promising tools
   - Evaluate the initial feel and fit of these tools for both frontend and backend development
 
