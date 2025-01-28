@@ -2,7 +2,7 @@
 
 
 <h2>Overview</h2>
-<p>We are developing a state-of-the-art hate speech detection agent designed to identify and mitigate harmful content on social media platforms. Our approach integrates advanced language models, psychological insights, and minimal labeled data to craft a robust, context-aware detection tool that not only detects but also explains the nuances of hate speech.</p>
+<p>We are developing a state-of-the-art hate speech detection agent specifically designed to not only identify but also thoroughly explain harmful content on social media platforms. Our innovative approach integrates advanced language models with deep psychological insights and utilizes labeled data to create a robust, context-aware tool. The core of our development effort is centered on explainability, ensuring that our agent not only detects hate speech but also provides clear, understandable explanations of the reasons behind each classification. This feature is crucial for transparency and helps in educating users about the subtleties of hate speech, ultimately contributing to more informed and conscientious online interactions.</p>
 
 <h2>Key Objectives</h2>
 <ul>
