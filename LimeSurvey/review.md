@@ -55,7 +55,7 @@ The text provided does not contain any hate speech or offensive language. It is 
 'washed my white shoes they are so clean and bright 🌞'
 label: 'normal'
 
-### Explanation 1:
+### Explanation 1:****
 This classification is based on the absence of any key features that would indicate hate speech or offensiveness. The tweet simply expresses satisfaction about cleaning white shoes, using a positive tone and an emoji to convey brightness. There's no reference to any group or individual in a negative context, nor any language that could be deemed controversial or derisive. Therefore, the text is neutral in nature, focusing on a mundane personal activity without any malicious intent
 
 ### Explanation 2:
