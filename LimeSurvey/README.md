@@ -1,48 +1,44 @@
-# Understanding Human Perceptions of AI-Generated Explanations for Tweet Classification
+# Hate Speech Detection Survey
 
-This file contains resources, data, and scripts for a survey exploring how individuals perceive and evaluate AI-generated explanations for classifying tweets as neutral, offensive, or hate speech. 
-
----
-
-## Table of Contents
-- Description
-- Objective
-- Methodology 
+## Objectives
+- Identify the most effective prompting technique for explanation generation.
+- Understand participant preferences on explanation clarity, plausibility, and contextual accuracy.
+- Explore attitudes toward AI-based hate speech identification and moderation.
+- Provide guidance for the design of transparent and trustworthy AI moderation systems.
 
 ---
 
-## Description
-This project aims to enhance transparency in hate speech detection on social media by researching the explainability of detection systems. We are developing an agent that provides clear explanations for why content is classified as neutral, offensive, or hate speech.
+## Repository Structure
+
+### data/
+- **raw/**
+  - `Final Survey Results.csv`: Original survey responses directly exported from LimeSurvey.
+
+- **processed/**
+  - `LimeSurvey_data_pivoted.csv`: Pivoted version of raw data for simplified analysis.
+  - `LimeSurvey_data_pivoted_sorted.csv`: Initial sorted dataset for analysis.
+  - `LimeSurvey_data_pivoted_sorted_2.csv`: Intermediate refined sorting.
+  - `LimeSurvey_data_pivoted_sorted_3.csv`: Final dataset prepared for detailed analysis and visualization.
+
+### notebooks/
+- `LimeSurvey_data_preperation.ipynb`: Data preprocessing and preparation steps.
+- `Survey_Evaluation_Code.ipynb`: Initial exploratory data analysis.
+- `Final_Evaluation_Code.ipynb`: Final analysis, visualizations, and interpretation of survey results.
+
+### scripts/
+- `EvaluationCodeTemplate.py`: Python script template for conducting analyses on survey data.
+
+### explanation_selections/
+- Individual and final documentation of tweet-explanation pair selections made by the research team.
+
+### survey_logic/
+- `SurveyStructureOverview.md`: Overview of survey structure, logic, and questions.
+- `survey_logic_file.html`: Exported HTML file showing detailed survey implementation in LimeSurvey.
 
 ---
 
-## Objective
-To support our research, we will conduct a survey to evaluate how individuals perceive and assess these explanations. We aim to understand how individuals evaluate AI-generated explanations for classifying social media content as neutral, offensive, or hate speech.
-The survey focuses on three key areas:
-
-1.Demographics
-Collecting participants’ age, gender, nationality, and educational background to guarantee diverse perspectives.
-
-2. Evaluation of Explanations
-Participants will assess explanations for content classification, highlighting factors like clarity, plausibility, and fairness. This provides empirical data on which aspects of explanations influence user perceptions. By considering  these factors we can optimize explanations to improve the quality of our agents output.
-
-3. Perspectives on Hate Speech and AI
-Exploring participants’ experiences with online hate speech and their trust in AI moderation and explanatory systems. This information is crucial for understanding how users' experiences with hate speech shape their evaluation of AI explanations.
-
-
----
-
-## Methodology MUSS NOCH ERGÄNZT WERDEN
-We plan to recruit 10-20 participants from a variety of backgrounds to ensure a diverse range of insights. 
-Each participant will be presented with a series of tweets that have been classified by three different LLMs into one of three categories: neutral, offensive, or hate speech. 
-
-### Files in This Repository:
-- **`survey_design/`**: Contains the survey structure and question files.
-- **`survey_responses/`**: Includes raw and cleaned response data (anonymized for privacy).
-- **`analysis/`**: Scripts and notebooks for analyzing the collected data.
-- **`models/`**: Datasets, AI model outputs, and analysis files.
-
-
-
-
+## Tools & Technologies
+- **Programming Language:** Python
+- **Libraries:** `pandas`, `matplotlib`, `re`
+- **Survey Platform:** LimeSurvey (locally hosted)
 
