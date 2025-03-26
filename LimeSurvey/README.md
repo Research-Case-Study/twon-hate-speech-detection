@@ -43,5 +43,5 @@
 ## Tools & Technologies
 - **Programming Language:** Python
 - **Libraries:** `pandas`, `matplotlib`, `re`
-- **Survey Platform:** LimeSurvey (locally hosted)
+- **Survey Platform:** LimeSurvey 
 
