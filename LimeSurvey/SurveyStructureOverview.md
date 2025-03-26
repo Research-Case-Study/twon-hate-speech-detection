@@ -42,9 +42,13 @@
 ## Evaluation of Explanations
 
 Below are three different explanations for why a specific tweet was classified as neutral, offensive, or hate speech. Please review each explanation carefully and select the one you find most compelling:
-- Explanation A
-- Explanation B
-- Explanation C
+
+Tweed: XYZ
+Label: XYZ
+
+- Explanation 1
+- Explanation 2
+- Explanation 3
 
 **After reviewing the explanations you selected, we would like to know why you made your choice.**  
 (You can select multiple reasons that apply to you.)
