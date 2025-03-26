@@ -35,6 +35,9 @@
 - `SurveyStructureOverview.md`: Overview of survey structure, logic, and questions.
 - `survey_logic_file.html`: Exported HTML file showing detailed survey implementation in LimeSurvey.
 
+  ### completed_survey/
+- `Completed_Survey.html`: Display of finished survey
+
 ---
 
 ## Tools & Technologies
